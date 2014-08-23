@@ -1,0 +1,6 @@
+{
+    "name"    : "GestUtilisateurs",    
+    "html"    : "GestUtilisateurs.html",
+    "styles"  : [],
+    "scripts" : ["GestUtilisateurs.js"]
+}
